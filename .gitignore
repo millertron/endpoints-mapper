@@ -37,3 +37,4 @@ build/
 
 search_directory/*
 input.json
+output.*
